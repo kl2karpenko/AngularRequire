@@ -1,0 +1,6 @@
+[
+    {"id": "first", "title": "My first tab", "num": "0", "url": "first"},
+    {"id": "second", "title": "My second tab", "num": "1", "url": "second"},
+    {"id": "third", "title": "My third tab", "num": "2", "url": "third"},
+    {"id": "fourth", "title": "My fourth tab", "num": "3", "url": "fourth"}
+]

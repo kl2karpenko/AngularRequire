@@ -1,0 +1,12 @@
+body {
+    margin: 5% auto;
+    max-width: 60%;
+}
+
+.nav-tabs {
+    margin-bottom: 15px;
+}
+
+.tab-content {
+    padding: 10px;
+}
